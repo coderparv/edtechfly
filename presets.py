@@ -1,12 +1,8 @@
 class Presets(object):
-    WELCOME_MESSAGE = *Hello {} !*
+    WELCOME_MESSAGE = *Hello *
 ✪ I'm an anime-theme management bot [✨](https://telegra.ph/file/11b5922a33de9968cedfe.jpg)
 ────────────────────────
-× *Uptime:* `{}`
-× `{}` *users, across* `{}` *chats.*
-────────────────────────
-✪ Hit /help to see my available commands.
-
+ 
 
 buttons = [
     [
