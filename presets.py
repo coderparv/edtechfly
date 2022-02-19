@@ -1,6 +1,6 @@
 class Presets(object):
     WELCOME_MESSAGE = """
-Very Easy to use me and utilize for your studies keep me check daily for new posts
+Welcome
     """
     USERS_LIST = "<b>Total:</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
     WAIT_MSG = "<b>Please Wait...</b>"
